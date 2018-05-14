@@ -12,7 +12,7 @@ end
 
 def pop_with_args(arr,n)
   n.times do
-    arr.pop()
+    arr.pop(2)
   end
   return arr
 end
