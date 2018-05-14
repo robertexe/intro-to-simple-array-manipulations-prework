@@ -10,7 +10,7 @@ def using_pop(arr)
   arr.pop()
 end
 
-def pops_with_args(arr,n)
+def pop_with_args(arr,n)
   n.times do
     arr.pop()
   end
